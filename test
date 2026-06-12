@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML</title>
+</head>
+<body>
+<center>
+<h1>head shoulders knees and toes</h1>
+<p style="font-size: 100px; color: red;">ABC 123</p>
+<p style="font-size: 80px; color: green;">snake<p>
+<a href="https://www.youtube.com/@po_tater159">My youtube user</a>
+</center>
+
+<center>
+<img src="hallo.png" alt="AWWWWWWWWW SO CUTE!" width="104" height="142">
+</center>
+
+</body>
+</html>
